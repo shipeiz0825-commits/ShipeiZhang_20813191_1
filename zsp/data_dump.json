@@ -1,0 +1,80 @@
+[
+  {
+    "year": "2022",
+    "title": "COVID-19 personal health mention detection from tweets using dual convolutional neural network",
+    "doi": "https://doi.org/10.1016/j.eswa.2022.117139",
+    "reason": "tweets、health mention detection、deep learning ，ext classification"
+  },
+  {
+    "year": "2021",
+    "title": "Evaluation of Twitter data for an emerging crisis: an application to the first wave of COVID-19 in the UK",
+    "doi": "https://doi.org/10.1038/s41598-021-98396-9",
+    "reason": "Social media-based early warning and surveillance systems; 情绪分析与公众反应信号"
+  },
+  {
+    "year": "2020",
+    "title": "Multilingual Epidemiological Text Classification: A Comparative Study",
+    "doi": "https://doi.org/10.18653/V1%2F2020.COLING-MAIN.543",
+    "reason": "text classification"
+  },
+  {
+    "year": "2019",
+    "title": "Real-time processing of social media with SENTINEL: A syndromic surveillance system incorporating deep learning for health classification",
+    "doi": "https://doi.org/10.1016/J.IPM.2018.04.011",
+    "reason": "deep learning， health classification"
+  },
+  {
+    "year": "2023",
+    "title": "Early alert of an outbreak based on event detection and tracking on social networks: The case of Covid-19 and meningitis",
+    "doi": "https://doi.org/10.1109/ICCNS58795.2023.10193638",
+    "reason": "COVID-19"
+  },
+  {
+    "year": "2023",
+    "title": "Surveillance of communicable diseases using social media: A systematic review",
+    "doi": "https://doi.org/10.1371/journal.pone.0282101",
+    "reason": "Surveillance"
+  },
+  {
+    "year": "2022",
+    "title": "An intelligent early warning system of analyzing Twitter data using machine learning on COVID-19 surveillance in the US",
+    "doi": "https://doi.org/10.1016/j.eswa.2022.116882",
+    "reason": "Seed survey"
+  },
+  {
+    "year": "2022",
+    "title": "Mining social media data to predict COVID-19 case counts",
+    "doi": "https://doi.org/10.1109/ichi54592.2022.00027",
+    "reason": "social media data + case count prediction"
+  },
+  {
+    "year": "2024",
+    "title": "Leveraging social media data for pandemic detection and prediction",
+    "doi": "https://doi.org/10.1057/s41599-024-03589-y",
+    "reason": "topic"
+  },
+  {
+    "year": "2022",
+    "title": "A Social Media Infodemic-Based Prediction Model for the Number of Severe and Critical COVID-19 Patients in the Lockdown Area",
+    "doi": "https://doi.org/10.3390/ijerph19138109",
+    "reason": "CW2 hospitalization / severe patient prediction 方向有联系"
+  },
+  {
+    "year": "2021",
+    "title": "COVID-19 related sentiment analysis using state-of-the-art deep learning techniques",
+    "doi": "https://doi.org/10.3389/fpubh.2021.812735",
+    "reason": "支持“情绪分析方法”这一类"
+  },
+  {
+    "year": "2022",
+    "title": "Identifying informative tweets during a pandemic via a topic-aware model",
+    "doi": "https://doi.org/10.1007/s11280-022-01034-1",
+    "reason": "放在 text classification / topic-aware filtering 类别"
+  },
+  {
+    "year": "2022",
+    "title": "Twitter conversations predict the daily confirmed COVID-19 cases",
+    "doi": "https://doi.org/10.1016/j.asoc.2022.109603",
+    "reason": "对应 Twitter + COVID-19 case prediction"
+  }
+]
